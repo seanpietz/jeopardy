@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  question: MyString
+  value: 1
+  answer: MyString
+  episode_id: 1
+  category_id: 1
+
+two:
+  question: MyString
+  value: 1
+  answer: MyString
+  episode_id: 1
+  category_id: 1

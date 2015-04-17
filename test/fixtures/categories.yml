@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  round: MyString
+  episode_id: 1
+
+two:
+  category: MyString
+  round: MyString
+  episode_id: 1
